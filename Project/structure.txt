@@ -1,0 +1,26 @@
+IERG3050_Project/
+├── outputs/
+│   ├── simulated_student_data.csv
+│   ├── cleaned_real_data.csv
+│   ├── evaluation_metrics.csv
+│   ├── *.pkl, *.npy, *.nc, *.keras
+│   ├── decision_boundary_binary.png
+│   ├── roc_curve_sim.png
+│   ├── roc_curve_real.png
+│   ├── feature_importance_real.png
+│   ├── feature_importance_sim.png
+│   ├── class_distribution.png
+│   ├── decision_boundary_multi.png
+│   ├── sigmoid_function.png
+│   ├── correlation_heatmap.png
+│   ├── *.html
+├── reports/
+│   ├── project_report.html
+│   ├── project_report.pdf
+├── main.py
+├── simulate_data.py
+├── clean_real_data.py
+├── train_model.py
+├── evaluate_visualize.py
+├── interactive_demo.py
+├── student-por.csv
